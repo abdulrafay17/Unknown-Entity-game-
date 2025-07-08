@@ -1,0 +1,32 @@
+🕹️ Unknown Entity
+“The clock is ticking. Do you trust your gut?”
+
+🧠 About the Game
+Unknown Entity is a minimalist timing challenge where precision meets pressure. The goal is simple: stop the timer just before it hits zero. Sounds easy? Try it across multiple difficulties — from 1 second to 15 — and discover how tricky your internal clock can be.
+
+🎯 How to Play
+Choose a difficulty:
+
+Easy – 1 second
+
+Medium – 5 seconds
+
+Hard – 10 seconds
+
+Expert – 15 seconds
+
+Start the challenge — the countdown begins silently.
+
+Tap Stop when you think the time is (almost) up.
+
+Your score is how close you were to zero — too early or too late, and you lose.
+
+🚀 Tech Stack
+React
+
+JavaScript
+
+CSS
+
+💡 Inspiration
+A fun twist on reaction games — no numbers, no timers, just your instincts.
